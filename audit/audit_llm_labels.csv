@@ -1,0 +1,1001 @@
+sample_id,llm_classes,confidence,rationale
+981,NONE,high,bortezomib proteasome inhibitor oncology
+44,PCSK9I,high,inclisiran siRNA to PCSK9
+93,SGLT2I,high,empagliflozin
+293,CENTRAL,high,clonidine central antihypertensive
+295,CCB_NON,high,verapamil non-DHP
+754,NONE,high,bupropion antidepressant
+435,THIAZIDE|ARB,high,HCTZ plus valsartan combination
+887,NONE,high,aflibercept anti-VEGF ophthalmic
+952,NONE,high,CAR-T cell therapy
+284,CENTRAL,high,clonidine
+979,NONE,high,pregabalin
+216,DOAC,high,dabigatran
+212,ARB|THIAZIDE,high,valsartan plus HCTZ
+460,FIBRATE,high,gemfibrozil
+447,NONE,medium,tirzepatide dual GIP GLP-1 agonist; outside frozen class scope
+558,PAH,high,ambrisentan endothelin antagonist
+744,NONE,high,ustekinumab
+843,NONE,high,vedolizumab
+699,METFORMIN,high,metformin brand combo with glyburide
+510,ARB|CCB_DHP,high,valsartan plus amlodipine
+367,MRA,high,spironolactone
+492,ARB|CCB_DHP|THIAZIDE,medium,Exforge D triple combination
+210,STATIN,high,simvastatin brand Zocor
+882,NONE,high,oral contraceptive
+581,STATIN,high,simvastatin tablets
+716,NONE,high,lenalidomide
+1,GLP1RA,high,exenatide extended release
+122,ASPIRIN,high,aspirin brand
+588,EZETIMIBE|STATIN,high,ezetimibe plus simvastatin
+406,STATIN,high,atorvastatin
+489,STATIN,high,simvastatin
+718,NONE,high,rosiglitazone TZD not in class list
+359,MINOXIDIL,high,topical minoxidil brand Rogaine
+748,NONE,high,epcoritamab bispecific antibody
+798,NONE,high,chlorhexidine antiseptic
+551,VASODIL,high,isosorbide mononitrate nitrate
+455,SGLT2I,high,canagliflozin
+811,NONE,high,vedolizumab
+908,NONE,high,niraparib PARP inhibitor
+602,MINOXIDIL,medium,Rogaine unspecified; minoxidil brand
+206,EZETIMIBE,high,ezetimibe
+866,NONE,high,rituximab
+546,DPP4I|METFORMIN,high,saxagliptin plus metformin
+266,P2Y12,high,clopidogrel
+94,PDE5,high,tadalafil
+431,ALPHA_BPH,high,alfuzosin urological alpha blocker
+294,SGLT2I,high,dapagliflozin
+781,NONE,high,buprenorphine patch
+290,CCB_DHP,high,felodipine brand Plendil
+64,GLP1RA,high,liraglutide
+639,CCB_NON,high,diltiazem
+626,PAH,high,inhaled treprostinil Tyvaso
+418,GLP1RA,high,exenatide pen
+273,EZETIMIBE,high,ezetimibe brand Zetia
+779,NONE,high,certolizumab
+929,NONE,high,cabozantinib
+136,GLP1RA,high,exenatide auto-injector
+848,NONE,high,escitalopram
+858,NONE,high,hepatitis C antiviral combination
+315,ARB,high,telmisartan
+238,CCB_DHP,high,felodipine
+317,AA_III,high,dronedarone class III antiarrhythmic
+278,DPP4I,high,linagliptin
+807,NONE,high,prochlorperazine
+187,RANOLAZINE,high,ranolazine
+162,METFORMIN|DPP4I,high,metformin plus saxagliptin
+48,LOOP,high,torsemide loop diuretic
+414,ALPHA_HTN,high,doxazosin alpha-1 blocker for hypertension
+388,ASPIRIN,high,aspirin
+491,VKA,high,warfarin
+363,BETA,high,bisoprolol
+281,ASPIRIN,high,combination contains aspirin
+18,ASPIRIN,high,acetylsalicylic acid cardio
+802,NONE,high,diazepam
+331,GLP1RA,high,semaglutide
+888,NONE,high,fluticasone salmeterol inhaler
+793,NONE,high,calcium carbonate antacid
+857,NONE,high,interferon beta Avonex
+304,RANOLAZINE,high,ranolazine brand Ranexa
+241,GLP1RA,high,lixisenatide component; insulin not in list
+829,NONE,high,bupropion
+256,ALPHA_BPH,high,tamsulosin
+382,STATIN,high,pravastatin
+43,METFORMIN,high,metformin brand Glucophage
+758,NONE,high,oxycodone
+277,EZETIMIBE,high,ezetimibe brand Zetia
+61,DOAC,high,rivaroxaban
+808,NONE,high,albuterol
+514,ARB,high,olmesartan
+246,ARB,high,candesartan brand Atacand
+106,METFORMIN,high,metformin
+708,METFORMIN,high,rosiglitazone plus metformin; TZD not in list
+476,VERICIGUAT,high,vericiguat
+535,STATIN,high,rosuvastatin
+725,NONE,high,atezolizumab
+344,CENTRAL,high,clonidine transdermal
+876,NONE,high,oxaliplatin
+272,THIAZIDE,high,hydrochlorothiazide
+919,NONE,high,etrasimod
+71,MRA,high,spironolactone
+648,ARB|CCB_DHP|THIAZIDE,high,Exforge HCT triple combination
+432,VASODIL,high,hydralazine
+777,NONE,high,valproate anticonvulsant
+299,BETA,high,carvedilol
+741,NONE,high,docetaxel
+909,NONE,high,estradiol
+733,NONE,high,dimethyl fumarate
+88,STATIN,high,atorvastatin brand Lipitor
+332,ASPIRIN,high,aspirin cardio
+801,NONE,high,medroxyprogesterone contraceptive
+822,NONE,high,amoxicillin clavulanate
+392,BETA,high,propranolol
+195,ACEI,high,lisinopril
+493,ACEI,high,ramipril
+261,PAH,high,bosentan endothelin antagonist
+983,NONE,high,nicotine patch
+471,OMEGA3,high,omega-3 acid ethyl esters Lovaza
+765,NONE,high,ruxolitinib
+127,ACEI,high,ramipril
+523,CCB_NON,high,diltiazem extended release
+862,NONE,high,tocilizumab
+745,NONE,high,methadone
+366,BETA,high,metoprolol
+30,P2Y12,high,clopidogrel
+47,ARB|THIAZIDE,high,candesartan plus HCTZ
+912,NONE,high,penicillamine
+743,NONE,high,vancomycin
+597,PDE5,high,sildenafil brand Viagra
+444,PAH,high,treprostinil injection Remodulin
+746,NONE,high,clonazepam
+928,NONE,high,upadacitinib
+96,VKA,high,warfarin brand Coumadin
+605,THIAZIDE|ACEI,high,HCTZ plus lisinopril
+207,GLP1RA,high,semaglutide pen
+133,LOOP,high,furosemide
+943,NONE,high,copper intrauterine device
+925,NONE,high,quetiapine
+536,ARB|THIAZIDE,high,valsartan plus HCTZ
+774,NONE,high,mifepristone
+895,NONE,high,erenumab
+495,CCB_DHP,high,amlodipine
+354,ALPHA_HTN,high,prazosin
+982,NONE,high,ibrutinib
+347,AA_III,high,amiodarone brand Cordarone
+24,ACEI,high,enalapril
+631,SGLT2I,high,empagliflozin brand Gibtulio
+119,ARB,high,losartan
+166,VKA,high,warfarin
+776,NONE,high,insulin aspart mix not in class list
+142,ARB,high,candesartan
+853,NONE,high,hydromorphone
+355,ACEI,high,lisinopril
+163,ARB,high,irbesartan
+464,AA_III,high,dofetilide
+242,AA_IC,high,flecainide class Ic
+10,METFORMIN,high,metformin
+842,NONE,high,guselkumab
+188,ARB,high,losartan brand Cozaar
+975,NONE,high,entecavir
+875,NONE,high,ibuprofen pseudoephedrine
+384,DIGOXIN,high,digoxin
+656,THIAZIDE,high,HCTZ component; amiloride not in list
+889,NONE,high,ozanimod
+596,ARB,high,valsartan generic for Diovan
+50,DOAC,high,dabigatran brand Pradaxa
+131,BETA,high,propranolol brand Hemangeol
+664,LOOP,high,furosemide
+164,STATIN,high,atorvastatin
+873,NONE,high,cyclosporine
+209,AA_III,high,dofetilide brand Tikosyn
+818,NONE,high,adapalene topical
+65,ARB,high,olmesartan brand Benicar
+682,AA_III,high,amiodarone IV
+394,CCB_DHP,high,amlodipine
+59,CCB_DHP,high,amlodipine brand Amlopin
+986,NONE,high,risperidone
+958,NONE,high,dasatinib
+688,DPP4I,high,alogliptin brand Nesina
+661,SGLT2I,high,dapagliflozin propanediol
+296,CCB_DHP,high,amlodipine
+966,NONE,high,quetiapine brand Seroquel
+946,NONE,high,rofecoxib withdrawn NSAID
+686,DOAC,high,dabigatran
+385,THIAZIDE,high,indapamide thiazide-like
+62,DPP4I,high,linagliptin brand Tradjenta
+146,ALPHA_BPH,high,tamsulosin brand Flomax
+202,METFORMIN,high,metformin
+860,NONE,high,eculizumab
+965,NONE,high,acarbose not in class list
+374,METFORMIN,high,metformin
+475,PAH,high,bosentan
+248,METFORMIN|DPP4I,high,metformin plus saxagliptin
+764,NONE,high,mesalamine
+892,NONE,high,palivizumab
+441,BETA,high,labetalol combined alpha beta blocker
+524,ACEI,high,enalapril brand Corodil
+186,PDE5,high,sildenafil
+362,ARB,high,olmesartan
+77,PAH,high,riociguat brand Adempas
+696,STATIN,high,atorvastatin brand Sortis
+797,NONE,high,fingolimod
+175,MINOXIDIL,high,minoxidil
+13,PAH,high,bosentan brand Tracleer
+323,PAH,high,bosentan
+270,SGLT2I|METFORMIN,high,canagliflozin plus metformin
+677,ASPIRIN,high,aspirin plus calcium combination
+900,NONE,high,HIV antiretroviral combination
+769,NONE,high,voxelotor
+511,ARB,high,valsartan Diovan
+420,P2Y12,high,clopidogrel
+883,NONE,high,levonorgestrel IUD
+233,METFORMIN,high,glyburide plus metformin; sulfonylurea not in list
+15,STATIN,high,simvastatin
+820,NONE,high,gabapentin
+794,NONE,high,risankizumab
+930,NONE,high,lifitegrast
+360,GLP1RA,high,exenatide brand Bydureon
+115,ASPIRIN,high,acetylsalicylic acid
+859,NONE,high,baloxavir
+316,THIAZIDE|ARB,high,HCTZ plus irbesartan
+452,STATIN,high,pravastatin
+373,PAH,high,selexipag prostacyclin receptor agonist
+719,NONE,high,insulin glargine not in class list
+229,THIAZIDE|ARB,high,HCTZ plus irbesartan
+361,PAH,high,macitentan endothelin antagonist
+192,SGLT2I|DPP4I,high,empagliflozin plus linagliptin
+434,ARB,high,olmesartan
+890,NONE,high,fluticasone salmeterol inhaler
+168,BETA,high,metoprolol succinate
+95,GLP1RA,high,dulaglutide brand Trulicity
+397,PDE5,high,sildenafil
+923,NONE,high,paroxetine brand Seroxat
+891,NONE,high,zolpidem
+736,NONE,high,fluorouracil
+19,PDE5,high,sildenafil brand Viagra
+198,CCB_DHP,high,amlodipine
+478,ARB,high,losartan
+837,NONE,high,sertraline
+465,CCB_DHP,high,nisoldipine brand Sular
+368,CCB_DHP|STATIN,high,amlodipine plus atorvastatin Caduet
+236,ARB|CCB_DHP|THIAZIDE,medium,Diovan Triple valsartan amlodipine HCTZ
+976,NONE,high,topiramate
+222,PDE5,high,tadalafil brand Cialis
+518,CCB_DHP|ARB,high,amlodipine plus olmesartan
+726,NONE,high,tapentadol
+604,BETA,high,bisoprolol brand Cardiocor
+194,PAH,high,epoprostenol prostacyclin Flolan
+723,NONE,high,indacaterol glycopyrrolate COPD
+498,ASPIRIN,high,aspirin plus dipyridamole Aggrenox
+826,NONE,high,zoledronic acid
+603,METFORMIN,high,pioglitazone plus metformin; TZD not in list
+832,NONE,high,tofacitinib
+614,VKA,high,warfarin
+185,BEMPEDOIC,high,bempedoic acid
+411,GPIIBIIIA,high,abciximab brand ReoPro
+852,NONE,high,conjugated estrogens progestin
+591,VKA,high,warfarin
+933,NONE,high,isotretinoin
+379,EZETIMIBE,high,ezetimibe
+659,BETA,high,bisoprolol
+572,AA_III,high,amiodarone
+522,PAH,high,ambrisentan
+813,NONE,high,aripiprazole
+20,STATIN,high,atorvastatin brand Lipitor
+468,P2Y12,high,ticagrelor brand Brilique
+788,NONE,high,human insulin not in class list
+902,NONE,high,human insulin not in class list
+628,ARB,high,irbesartan
+650,BETA,high,propranolol brand Avlocardyl
+693,AA_IC,high,propafenone brand Rytmonorm
+838,NONE,high,vilazodone
+393,AA_III,high,amiodarone
+519,CCB_DHP,high,amlodipine
+125,OMEGA3,high,icosapent ethyl Vascepa
+901,NONE,high,azithromycin
+624,DIGOXIN,high,digoxin Digitek
+334,CCB_DHP|ARB,high,amlodipine plus olmesartan
+542,CILOSTAZOL,high,cilostazol brand Pletaal
+998,NONE,high,lamotrigine
+181,ARB,high,valsartan brand Diovan
+532,VKA,high,warfarin
+968,NONE,high,thalidomide
+453,P2Y12,high,clopidogrel
+814,NONE,high,albuterol inhaler
+485,LOOP,high,torsemide
+412,BEMPEDOIC|EZETIMIBE,high,bempedoic acid plus ezetimibe Nexlizet
+484,AA_III,high,sotalol listed under class III in prompt
+160,STATIN,high,pitavastatin brand Livalo
+657,ARB|THIAZIDE,high,valsartan plus HCTZ
+695,BETA,high,metoprolol
+365,BETA,high,carvedilol
+937,NONE,high,erlotinib
+851,NONE,high,acalabrutinib
+440,CCB_NON,high,diltiazem
+150,DOAC,high,apixaban brand Eliquis
+772,NONE,high,mycophenolate
+949,NONE,high,methylphenidate
+918,NONE,high,gefitinib
+97,PAH,high,bosentan brand Tracleer
+782,NONE,high,aripiprazole
+796,NONE,high,pirfenidone
+235,BETA,high,metoprolol brand Lopressor
+158,PCSK9I,high,alirocumab
+428,BETA,high,metoprolol succinate ER
+617,ALPHA_BPH,high,tamsulosin
+327,STATIN,high,atorvastatin brand Tahor
+864,BETA,high,timolol component; brimonidine not in list
+494,ARB,high,irbesartan brand Avapro
+339,ACEI,high,perindopril
+56,DOAC,high,apixaban
+669,ARB,high,telmisartan
+538,DOAC,high,dabigatran brand Pradaxa
+255,ARNI,high,sacubitril valsartan
+349,BETA,high,metoprolol succinate
+561,VASODIL,high,glyceryl trinitrate patch nitrate
+482,METFORMIN|DPP4I,high,metformin plus vildagliptin
+372,METFORMIN,high,metformin brand Glucophage
+756,NONE,high,axitinib
+174,ARB,high,valsartan
+583,THIAZIDE|ARB,high,HCTZ plus valsartan
+443,ASPIRIN,high,combination contains aspirin Excedrin
+328,STATIN,high,rosuvastatin
+615,STATIN,high,simvastatin
+474,DPP4I,high,alogliptin brand Nesina
+568,MINOXIDIL,high,topical minoxidil 5%
+698,METFORMIN,high,metformin ER
+637,ARB|CCB_DHP,high,olmesartan plus amlodipine Vocado
+789,NONE,high,buprenorphine patch
+994,NONE,high,epoetin alfa
+41,PDE5,high,sildenafil brand Viagra
+306,CCB_NON,high,verapamil
+457,STATIN,high,pravastatin
+681,STATIN,high,atorvastatin
+423,METFORMIN|DPP4I,high,metformin plus vildagliptin Galvus Met
+652,PAH,high,iloprost prostacyclin Ventavis
+285,CENTRAL,high,clonidine transdermal
+425,PAH,high,epoprostenol Flolan
+679,LOOP,high,torsemide brand Dilutol
+320,STATIN,high,pitavastatin brand Livalo
+920,NONE,high,ethanol
+917,NONE,high,risdiplam
+906,NONE,high,phentermine topiramate
+509,ACEI,high,perindopril
+549,ASPIRIN,high,aspirin
+520,STATIN,high,rosuvastatin generic for Crestor
+935,NONE,high,sertraline brand Zoloft
+413,BETA,high,nebivolol brand Bystolic
+138,THIAZIDE|ARB,high,HCTZ plus olmesartan
+101,ASPIRIN,high,aspirin
+828,NONE,high,pertuzumab trastuzumab combination
+503,ACEI,high,enalapril
+220,VKA,high,warfarin brand Coumadin
+402,BETA,high,labetalol brand Trandate
+629,ASPIRIN,high,aspirin
+4,SGLT2I,high,empagliflozin brand Jardiance
+437,P2Y12,high,ticagrelor
+835,NONE,high,radioligand therapy
+230,MRA,high,spironolactone brand Aldactone
+513,CCB_DHP,high,amlodipine mesilate
+308,PAH|PDE5,high,macitentan plus tadalafil
+683,ARB|THIAZIDE,high,losartan plus HCTZ
+924,NONE,high,ruxolitinib
+644,GPIIBIIIA,high,eptifibatide Integrilin
+159,VKA,high,warfarin
+608,LOOP,high,furosemide
+521,FIBRATE,high,fenofibrate
+57,PAH,high,ambrisentan
+500,DOAC,high,edoxaban brand Lixiana
+6,THIAZIDE,high,chlorthalidone thiazide-like
+665,AA_III,high,amiodarone
+247,SGLT2I,high,canagliflozin brand Invokana
+300,CCB_DHP|STATIN,high,amlodipine plus atorvastatin Caduet
+528,GLP1RA,high,semaglutide component
+711,NONE,high,trastuzumab deruxtecan
+472,BETA,high,carvedilol brand Coreg CR
+640,ACEI,high,lisinopril
+954,NONE,high,palbociclib
+847,NONE,high,hydroxychloroquine
+72,CCB_DHP,high,nifedipine
+795,NONE,high,patiromer potassium binder not in list
+416,AA_III,high,amiodarone
+506,ACEI,high,perindopril erbumine
+283,SGLT2I,high,canagliflozin brand Canaglu
+831,NONE,high,pramipexole
+755,NONE,high,dolutegravir
+974,NONE,high,docosanol topical
+646,FIBRATE,high,fenofibrate
+324,BETA,high,metoprolol tartrate
+487,DIGOXIN,high,digoxin
+816,NONE,high,clonazepam
+161,SGLT2I,high,dapagliflozin brand Farxiga
+899,NONE,high,esketamine
+303,ALPHA_BPH,high,tamsulosin component; dutasteride not in list
+154,CCB_DHP,high,nifedipine
+86,STATIN,high,simvastatin brand Zocor
+364,FIBRATE,high,fenofibric acid Trilipix
+446,OMEGA3,high,omega-3 acid ethyl esters
+369,LOOP,high,furosemide
+564,BETA,high,metoprolol tartrate
+784,NONE,high,infliximab
+674,LOOP,high,furosemide brand Lasix
+157,PAH,high,bosentan
+271,SGLT2I|METFORMIN,high,dapagliflozin plus metformin Xigduo
+167,CENTRAL,medium,guanfacine central alpha-2 agonist
+710,NONE,high,etanercept
+951,NONE,high,tisotumab vedotin
+54,GLP1RA,high,liraglutide brand Victoza
+914,NONE,high,gabapentin
+422,ASPIRIN,high,aspirin brand Bayaspirin
+429,ASPIRIN,high,aspirin Bayer
+396,BETA,high,metoprolol
+830,NONE,high,dasatinib
+534,AA_III,high,sotalol listed under class III in prompt
+143,CCB_NON,high,diltiazem
+931,NONE,high,pioglitazone TZD not in class list
+728,NONE,high,alpelisib
+477,FIBRATE,high,fenofibrate
+997,NONE,high,ofatumumab
+560,STATIN,high,atorvastatin
+282,PCSK9I,high,inclisiran
+942,NONE,high,teriflunomide
+289,ACEI,high,lisinopril brand Prinivil
+671,ARB,high,valsartan
+383,DPP4I,high,saxagliptin brand Onglyza
+34,ARB,high,valsartan brand Diovan
+751,NONE,high,bevacizumab
+139,STATIN,high,simvastatin
+579,ARB,high,losartan
+74,P2Y12,high,clopidogrel
+66,GLP1RA,high,exenatide brand Byetta
+326,PDE5,high,vardenafil brand Levitra
+884,NONE,high,fentanyl patch
+390,ARB,high,olmesartan brand Olmetec
+265,VKA,high,warfarin
+312,BETA,high,carvedilol
+263,AA_IC,high,propafenone brand Rythmol
+775,NONE,high,somatropin
+91,MINOXIDIL,high,topical minoxidil Rogaine
+405,BETA,high,metoprolol tartrate
+213,PAH,high,treprostinil inhaled Yutrepia
+804,NONE,high,etanercept
+190,P2Y12,high,prasugrel brand Effient
+234,DPP4I,high,sitagliptin brand Glactiv
+356,CCB_NON,high,verapamil
+771,NONE,high,ixekizumab
+400,STATIN,high,pravastatin
+553,P2Y12,high,clopidogrel misspelled
+944,NONE,high,venetoclax
+258,VKA,high,warfarin brand Coumadin
+913,NONE,high,regorafenib
+461,METFORMIN|DPP4I,high,metformin plus sitagliptin Janumet
+613,BETA,high,bisoprolol fumarate
+459,VASODIL,high,hydralazine
+305,CENTRAL,high,clonidine brand Catapres
+729,NONE,high,omeprazole
+89,PAH,high,iloprost Ventavis
+275,PCSK9I,high,evolocumab
+980,NONE,high,fluoxetine
+993,NONE,high,pazopanib
+961,NONE,high,metronidazole
+318,LOOP,high,bumetanide
+81,AA_III,high,amiodarone
+991,NONE,high,didanosine
+51,MRA,high,finerenone brand Kerendia
+52,ARB,high,olmesartan
+37,BETA,high,carvedilol brand Coreg
+905,NONE,high,epoetin beta pegol
+274,ARB,high,losartan
+225,ARB,high,losartan
+172,PAH,high,epoprostenol Veletri
+702,NONE,high,peritoneal dialysis solution
+183,ARB,high,telmisartan brand Micardis
+145,ARB,high,losartan
+189,CCB_DHP|THIAZIDE|ARB,high,amlodipine HCTZ valsartan Exforge HCT
+806,NONE,high,denosumab
+941,NONE,high,levofloxacin
+9,METFORMIN,high,metformin
+504,CCB_NON,high,diltiazem
+398,SGLT2I|METFORMIN,high,empagliflozin plus metformin Synjardy
+515,CCB_DHP|ARB,high,amlodipine plus olmesartan Vocado
+153,DIGOXIN,high,digoxin
+430,PDE5,high,sildenafil
+791,NONE,high,ciprofloxacin
+445,FIBRATE,high,fenofibrate
+566,SGLT2I|METFORMIN,high,empagliflozin plus metformin
+280,BETA,high,bisoprolol fumarate
+945,NONE,high,loperamide
+978,NONE,high,blinatumomab
+111,BETA,high,carvedilol
+100,PDE5,high,tadalafil brand Adcirca
+577,ARB,high,losartan generic for Cozaar
+616,ACEI,high,perindopril erbumine
+404,GPIIBIIIA,high,eptifibatide brand Integrilin
+762,NONE,high,abiraterone
+545,THIAZIDE|ARB,high,HCTZ plus losartan
+231,ARB|THIAZIDE,high,valsartan plus HCTZ
+28,DOAC,high,apixaban brand Eliquis
+35,AA_III,high,dofetilide brand Tikosyn
+507,METFORMIN,high,metformin ER
+311,CENTRAL,high,clonidine
+322,BETA,high,carvedilol phosphate Coreg CR
+165,DPP4I,high,linagliptin
+812,NONE,high,infliximab biosimilar
+118,ACEI,high,ramipril
+570,AA_III,high,amiodarone
+638,AA_III,high,amiodarone
+80,PAH,high,treprostinil prostacyclin
+653,ARB,high,irbesartan
+184,PDE5,high,sildenafil
+381,ARB,high,olmesartan brand Olmetec
+647,METFORMIN,high,metformin SR Bolamyn
+938,NONE,high,simethicone
+533,ASPIRIN,high,acetylsalicylic acid
+805,NONE,high,oxycodone
+33,NONE,medium,tirzepatide dual GIP GLP-1 agonist; outside frozen class scope
+370,FIBRATE,high,fenofibrate
+329,ASPIRIN,high,combination contains aspirin
+70,BETA,high,bisoprolol
+525,GPIIBIIIA,high,tirofiban
+14,GLP1RA,high,semaglutide brand Ozempic
+565,CCB_DHP,high,amlodipine
+456,OMEGA3,high,icosapent ethyl
+352,STATIN,high,atorvastatin
+850,NONE,high,naloxegol
+103,ACEI,high,lisinopril
+714,NONE,high,encorafenib
+724,NONE,high,risankizumab
+815,NONE,high,hydroxyurea
+245,MRA,high,eplerenone
+8,DOAC,high,rivaroxaban brand Xarelto
+424,THIAZIDE|ARB,high,HCTZ plus valsartan Diovan HCT
+63,BETA,high,bisoprolol
+651,ARB,high,irbesartan
+618,ARB,high,losartan
+237,CCB_NON,high,diltiazem brand Tiazac
+463,ALPHA_HTN,high,doxazosin
+571,BETA,high,bisoprolol
+739,NONE,high,parathyroid hormone
+893,NONE,high,iodixanol contrast agent
+592,ARB,high,losartan brand misspelled Cosaar
+642,ACEI,high,ramipril
+45,STATIN,high,rosuvastatin brand Crestor
+450,PDE5,high,tadalafil brand Adcirca
+840,NONE,high,rifaximin
+675,STATIN,high,atorvastatin
+84,ASPIRIN,high,combination contains aspirin Excedrin
+417,LOOP,high,furosemide brand Lasix
+717,NONE,high,sofosbuvir velpatasvir
+129,CCB_DHP,high,clevidipine IV dihydropyridine Cleviprex
+297,ARB,high,losartan brand Cozaar
+338,STATIN,high,simvastatin
+147,BETA,high,nadolol
+955,NONE,high,oxycodone acetaminophen
+712,NONE,high,acetaminophen
+309,STATIN,high,atorvastatin
+753,NONE,high,pantoprazole brand
+562,ACEI|THIAZIDE,high,lisinopril plus HCTZ
+342,STATIN,high,pravastatin
+948,NONE,high,galsulfase enzyme
+458,AA_III,high,dofetilide
+2,PAH,high,macitentan brand Opsumit
+863,NONE,high,trastuzumab
+531,VKA,high,warfarin
+330,NONE,medium,tirzepatide dual GIP GLP-1 agonist; outside frozen class scope
+110,PAH,high,iloprost brand Ventavis
+410,P2Y12,high,cangrelor brand Kengreal
+836,NONE,high,loratadine
+152,ASPIRIN,high,combination contains aspirin
+264,BETA,high,nebivolol brand Bystolic
+990,NONE,high,contraceptive patch
+856,NONE,high,secukinumab
+391,CCB_DHP,high,amlodipine
+483,METFORMIN,high,metformin
+68,ARB|CCB_DHP,high,valsartan plus amlodipine Exforge
+60,GLP1RA,high,liraglutide brand Saxenda
+378,THIAZIDE,high,metolazone thiazide-like
+512,CCB_NON,high,verapamil
+685,STATIN,high,rosuvastatin brand Cavstat
+380,CCB_DHP,high,nifedipine brand Adalat
+625,ACEI,high,fosinopril brand Fozitec
+785,NONE,high,methotrexate
+21,MINOXIDIL,high,minoxidil
+343,ALPHA_BPH,high,tamsulosin
+124,P2Y12,high,ticagrelor brand Brilinta
+113,ACEI,high,lisinopril brand Prinivil
+171,AA_III,high,amiodarone
+824,NONE,high,immune globulin
+82,OMEGA3,medium,doconexent icosapent omega-3 medical food Vayarin
+544,CCB_DHP|ACEI,high,amlodipine plus benazepril
+348,METFORMIN,high,metformin
+486,ARB,high,irbesartan brand Avapro
+870,NONE,high,cabergoline
+335,ACEI,high,lisinopril
+609,STATIN,high,atorvastatin
+337,STATIN,high,rosuvastatin
+598,MRA,high,spironolactone
+387,PDE5,high,sildenafil
+694,ACEI,high,ramipril
+715,NONE,high,apremilast
+469,ALPHA_BPH,high,tamsulosin
+987,NONE,high,cinacalcet
+780,NONE,high,finasteride
+31,MINOXIDIL,high,minoxidil brand Rogaine
+819,NONE,high,ibandronate
+529,CCB_DHP,high,amlodipine
+849,NONE,high,varenicline
+720,NONE,high,darbepoetin
+409,PDE5,high,sildenafil
+827,NONE,high,tizanidine
+254,ACEI,high,benazepril
+449,CCB_DHP|ARB,high,amlodipine plus valsartan Exforge
+399,ACEI,high,lisinopril
+939,NONE,high,insulin lispro not in class list
+792,NONE,high,sodium citrate not in class list
+319,P2Y12,high,clopidogrel brand Plavix
+502,FIBRATE,high,fenofibrate
+678,CCB_DHP|BETA,high,amlodipine plus atenolol
+251,CCB_DHP,high,amlodipine
+508,GLP1RA,high,exenatide
+773,NONE,high,deferasirox
+239,VASODIL,high,hydralazine
+964,NONE,high,ondansetron
+730,NONE,high,triamcinolone
+704,NONE,high,dupilumab
+676,LOOP,high,furosemide brand Fusid
+288,DOAC,high,dabigatran
+700,ARB,high,valsartan
+123,BETA,high,metoprolol tartrate
+3,PAH,high,treprostinil brand Remodulin
+16,PAH,high,treprostinil oral Orenitram
+910,NONE,high,duloxetine
+574,BETA,high,bisoprolol brand Bisoc
+260,ARB|THIAZIDE,high,valsartan plus HCTZ Diovan HCT
+868,NONE,high,epoetin alfa
+667,THIAZIDE,high,hydrochlorothiazide
+99,ASPIRIN,high,combination contains aspirin Excedrin
+313,LOOP,high,torsemide
+249,CCB_DHP|ACEI,high,amlodipine plus benazepril
+567,ALPHA_BPH,high,tamsulosin
+757,NONE,high,anakinra
+620,ACEI|THIAZIDE,high,enalapril plus HCTZ
+314,CCB_DHP|ARB,high,amlodipine plus olmesartan Zolnor
+375,VASODIL,high,nitroglycerin Nitrostat
+407,THIAZIDE|ARB,high,HCTZ plus olmesartan Benicar HCT
+203,CCB_DHP|ARB,high,amlodipine plus olmesartan Sevikar
+179,VASODIL,high,nitroglycerin
+386,P2Y12,high,prasugrel brand Effient
+211,STATIN,high,rosuvastatin brand Crestor
+341,GLP1RA,high,exenatide brand Bydureon
+593,DIGOXIN,high,digoxin
+911,NONE,high,dalfampridine
+580,ARB,high,telmisartan brand Kinzalmono
+116,SGLT2I,high,dapagliflozin
+645,ASPIRIN,high,combination contains aspirin Alka-Seltzer
+587,CCB_NON,high,diltiazem ER
+49,PCSK9I,high,alirocumab brand Praluent
+178,ACEI,high,ramipril brand Altace
+454,BETA,high,atenolol brand Tenormin
+655,CCB_DHP,high,amlodipine
+253,RENIN_INH,high,aliskiren
+262,STATIN,high,simvastatin
+516,ACEI,high,lisinopril misspelled
+556,PAH,high,bosentan
+350,CCB_NON,high,diltiazem
+623,ARB,high,losartan brand Saranto
+438,BETA,high,propranolol IR
+872,NONE,high,latanoprost
+215,OMEGA3,medium,doconexent icosapent omega-3 medical food Vayarin
+752,NONE,high,docetaxel
+670,PDE5,high,sildenafil
+582,ASPIRIN,high,methocarbamol plus aspirin
+462,LOOP,high,furosemide brand Lasix
+825,NONE,high,mepolizumab
+298,PDE5,high,sildenafil brand Revatio
+959,NONE,high,natalizumab
+886,NONE,high,solifenacin
+557,ARNI,high,sacubitril valsartan LCZ696
+214,ALPHA_HTN,high,doxazosin
+995,NONE,high,pancrelipase
+53,DOAC,high,dabigatran brand misspelled Prazaxa
+5,ARNI,high,sacubitril valsartan Entresto
+7,PCSK9I,high,evolocumab brand Repatha
+141,CCB_NON,high,diltiazem brand Cardizem
+660,ALPHA_BPH,high,tamsulosin
+177,PAH,high,ambrisentan
+921,NONE,high,tezepelumab
+896,NONE,high,alendronate
+569,DOAC,high,rivaroxaban brand Xarelto
+684,METFORMIN,high,metformin ER
+731,NONE,high,infliximab biosimilar
+126,GLP1RA,high,albiglutide brand Tanzeum
+107,P2Y12,high,clopidogrel
+201,DPP4I,high,sitagliptin brand Januvia
+112,BETA,high,atenolol
+985,NONE,high,midostaurin
+760,NONE,high,polyethylene glycol laxative
+867,NONE,high,formoterol mometasone inhaler
+709,NONE,high,meperidine
+90,VASODIL,high,hydralazine
+26,STATIN,high,atorvastatin
+957,NONE,high,interferon beta Rebif
+433,CCB_NON,high,verapamil injectable Isoptine
+252,PAH,high,treprostinil inhaled Tyvaso
+148,ACEI,high,trandolapril brand Mavik
+575,BETA,high,atenolol
+673,CCB_NON,high,diltiazem
+173,LOOP,high,furosemide
+1000,PAH,medium,sotatercept PAH agent beyond enumerated subfamilies Winrevair
+768,NONE,high,pomalidomide
+135,BETA,high,metoprolol succinate Toprol XL
+585,VASODIL,high,nitroglycerin spray
+292,CENTRAL,medium,guanfacine central alpha-2 agonist
+940,NONE,high,triamcinolone nasal
+144,AA_IC,high,flecainide
+105,AA_III,high,amiodarone
+27,CCB_DHP,high,amlodipine brand Norvasc
+692,VASODIL,high,glyceryl trinitrate
+120,ARB,high,valsartan
+530,GLP1RA,high,dulaglutide
+448,DOAC,high,edoxaban
+767,NONE,high,tetracycline
+200,MRA,high,eplerenone brand Inspra
+333,STATIN,high,rosuvastatin
+763,NONE,high,nivolumab
+421,SGLT2I|METFORMIN,high,empagliflozin plus metformin Jardiamet
+85,GLP1RA,high,semaglutide brand Wegovy
+427,PAH,high,riociguat
+180,GLP1RA,high,exenatide brand Byetta
+39,METFORMIN,high,metformin
+834,NONE,high,everolimus
+734,NONE,high,prednisone
+466,VASODIL,high,nitroglycerin
+548,CCB_DHP|THIAZIDE|ARB,high,amlodipine HCTZ olmesartan triple
+897,NONE,high,lapatinib
+894,NONE,high,infliximab
+747,NONE,high,etoricoxib
+844,NONE,high,buprenorphine naloxone
+996,NONE,high,propofol
+809,NONE,high,esomeprazole
+269,P2Y12,high,clopidogrel
+137,DPP4I,high,saxagliptin brand Onglyza
+833,NONE,high,ribavirin
+130,P2Y12,high,ticagrelor development code AZD6140
+584,STATIN,high,fluvastatin brand Lescol
+497,ARNI,high,sacubitril valsartan Vymada
+357,ALPHA_BPH,high,alfuzosin ER
+345,CCB_NON,high,diltiazem ER
+467,METFORMIN,high,metformin
+742,NONE,high,adalimumab
+649,CCB_DHP|ARB,high,amlodipine plus valsartan
+971,NONE,high,codeine acetaminophen
+601,VASODIL,high,nitroglycerin tablets
+973,NONE,high,iopamidol contrast
+291,ASPIRIN,high,acetylsalicylic acid
+108,ARB,high,candesartan
+705,NONE,high,denosumab
+228,ACEI,high,perindopril
+276,FIBRATE,high,fenofibrate brand Tricor
+611,STATIN,high,atorvastatin
+633,ASPIRIN,high,acetylsalicylic acid
+672,BETA,high,metoprolol tartrate
+950,NONE,high,famotidine
+353,SGLT2I|METFORMIN,high,empagliflozin plus metformin Synjardy
+38,PAH,high,selexipag brand Uptravi
+408,ACEI,high,trandolapril
+436,DOAC,high,edoxaban brand Savaysa
+962,NONE,high,paliperidone
+325,MRA,high,spironolactone
+170,PAH,high,treprostinil dry powder Tyvaso DPI
+854,NONE,high,diclofenac
+403,METFORMIN|DPP4I,high,metformin plus sitagliptin Janumet
+874,NONE,high,relugolix
+880,NONE,high,lamotrigine
+984,NONE,high,propofol
+706,NONE,high,secukinumab
+573,THIAZIDE,high,HCTZ plus triamterene; triamterene not in list
+999,NONE,high,metronidazole
+109,P2Y12,high,clopidogrel brand Plavix
+916,NONE,high,esomeprazole
+988,NONE,high,natalizumab
+155,ARB,high,valsartan
+83,STATIN,high,rosuvastatin
+936,NONE,high,hydrocodone acetaminophen
+778,NONE,high,cenegermin
+803,NONE,high,olaparib
+790,NONE,high,clozapine
+977,NONE,high,methotrexate
+479,DOAC,high,dabigatran
+721,NONE,high,indacaterol
+87,ARB,high,valsartan
+586,ARB,high,losartan
+250,METFORMIN,high,metformin brand Metgluco
+737,NONE,high,thalidomide
+496,AA_III,high,amiodarone
+735,NONE,high,alprazolam
+287,ARB,high,valsartan
+36,BETA,high,metoprolol succinate Toprol XL
+550,STATIN,high,rosuvastatin
+689,ALPHA_BPH,high,tamsulosin misspelled
+121,ALPHA_HTN,high,terazosin brand Hytrin
+244,CCB_DHP,high,amlodipine
+243,DOAC,high,rivaroxaban
+23,DOAC,high,rivaroxaban brand Xarelto
+691,ARB,high,valsartan
+25,ACEI,high,fosinopril
+58,NONE,medium,tirzepatide dual GIP GLP-1 agonist; outside frozen class scope
+641,ALPHA_BPH,high,tamsulosin
+205,ARB,high,valsartan
+619,BETA,high,carvedilol
+636,ARB|THIAZIDE,high,candesartan plus HCTZ
+481,AA_III,high,amiodarone
+182,PAH,high,treprostinil Tyvaso
+654,AA_IC,high,flecainide
+786,NONE,high,vancomycin
+713,NONE,high,levetiracetam
+470,STATIN,high,pitavastatin brand Alipza
+770,NONE,high,levofloxacin
+922,NONE,high,adalimumab
+915,NONE,high,ferric maltol
+543,CCB_DHP,high,nifedipine
+787,NONE,high,pimavanserin
+701,NONE,high,fidaxomicin
+547,PDE5,high,sildenafil
+134,ASPIRIN,high,aspirin Bayer
+32,ACEI|THIAZIDE,high,lisinopril plus HCTZ
+439,RENIN_INH,high,aliskiren brand Rasilez
+488,PAH,high,treprostinil
+821,NONE,high,bortezomib
+687,BETA|THIAZIDE,high,bisoprolol plus HCTZ
+199,METFORMIN,high,metformin XR Glucophage
+490,AA_IC,high,propafenone
+302,THIAZIDE,high,hydrochlorothiazide
+257,CCB_DHP|ARB,high,amlodipine plus olmesartan Azor
+114,BETA,high,carvedilol
+740,NONE,high,carboplatin
+879,NONE,high,erlotinib
+861,NONE,high,ranitidine
+415,DPP4I,high,linagliptin brand misspelled Trajenta
+395,ACEI,high,benazepril brand Lotensin
+197,BETA,high,metoprolol succinate ER
+217,GLP1RA,high,exenatide brand Bydureon
+537,ACEI,high,fosinopril
+98,MINOXIDIL,high,topical minoxidil Rogaine
+595,ARB,high,losartan
+310,METFORMIN,high,metformin
+606,ARB|THIAZIDE,high,losartan plus HCTZ
+956,NONE,high,etonogestrel implant
+140,CCB_DHP,high,amlodipine brand Norvasc
+301,VKA,high,warfarin brand Jantoven
+259,GLP1RA,high,oral semaglutide Rybelsus
+149,DOAC,high,edoxaban brand Lixiana
+865,NONE,high,micafungin
+346,PDE5,high,sildenafil
+102,PAH,high,treprostinil
+590,ASPIRIN,high,aspirin St Joseph
+401,MRA,high,spironolactone
+42,RENIN_INH,high,aliskiren brand Tekturna
+885,NONE,high,bendamustine
+376,PAH,high,ambrisentan
+750,NONE,high,nicotine gum
+321,METFORMIN,high,metformin
+17,CCB_DHP,high,amlodipine
+227,STATIN,high,rosuvastatin
+612,ACEI,high,ramipril
+953,NONE,high,dextromethorphan
+732,NONE,high,tofacitinib
+226,ACEI,high,benazepril brand Lotensin
+554,ACEI,high,lisinopril
+117,ARB,high,candesartan
+540,CCB_DHP,high,amlodipine maleate
+594,VASODIL,high,isosorbide nitrate
+22,DOAC,high,dabigatran brand Pradaxa
+630,STATIN,high,simvastatin misspelled
+73,OMEGA3,high,omega-3 acid ethyl esters Omacor
+240,EZETIMIBE|STATIN,high,ezetimibe plus simvastatin Vytorin
+563,THIAZIDE,high,chlorthalidone
+351,DOAC,high,dabigatran
+12,PDE5,high,sildenafil brand Revatio
+926,NONE,high,budesonide
+336,ARB,high,olmesartan brand Olmetec
+589,ASPIRIN,high,combination contains aspirin Excedrin
+963,NONE,high,fentanyl patch
+871,NONE,high,sulfamethoxazole trimethoprim
+759,NONE,high,levothyroxine
+29,MINOXIDIL,high,topical minoxidil Rogaine
+104,VKA,high,warfarin brand Coumadin
+193,ASPIRIN,high,acetylsalicylic acid
+817,NONE,high,ranitidine
+635,BETA,high,atenolol
+600,ACEI,high,ramipril
+766,NONE,high,insulin glargine not in class list
+898,NONE,high,enoxaparin LMWH not in class list
+610,BETA|THIAZIDE,high,metoprolol plus HCTZ
+156,THIAZIDE,high,hydrochlorothiazide
+552,METFORMIN,high,metformin
+932,NONE,high,doxepin
+176,ALPHA_BPH,high,tamsulosin
+527,ACEI,high,lisinopril
+839,NONE,high,golimumab
+881,NONE,high,imatinib
+722,NONE,high,buprenorphine naloxone
+947,NONE,high,insulin glargine not in class list
+204,SGLT2I,high,dapagliflozin brand Forxiga
+970,NONE,high,ocrelizumab
+132,PDE5,high,tadalafil brand Cialis
+855,NONE,high,mesalamine
+426,METFORMIN,high,metformin brand Glifage
+46,STATIN,high,atorvastatin
+992,NONE,high,ranibizumab
+196,METFORMIN,high,metformin
+666,ACEI,high,ramipril
+799,NONE,high,sulfasalazine
+40,ACEI,high,ramipril brand Triatec
+634,ACEI,high,ramipril
+960,NONE,high,emtricitabine tenofovir HIV
+972,NONE,high,menthol foot powder
+371,ACEI,high,lisinopril
+904,NONE,high,tislelizumab
+377,IVABRADINE,high,ivabradine brand Corlanor
+539,RANOLAZINE,high,ranolazine
+480,ALPHA_BPH,high,tamsulosin brand Omni Tocas
+697,CENTRAL,high,clonidine misspelled
+727,NONE,high,teriparatide
+268,EZETIMIBE,high,ezetimibe
+662,ARB|THIAZIDE,high,candesartan plus HCTZ
+307,ACEI,high,enalapril
+869,NONE,high,amoxicillin clavulanate
+92,BETA,high,propranolol
+505,AA_III,high,amiodarone
+541,ACEI,high,benazepril
+221,GLP1RA,high,exenatide brand Byetta
+738,NONE,high,enoxaparin LMWH not in class list
+658,BETA,high,bisoprolol
+668,BETA,high,metoprolol
+559,GLP1RA,high,semaglutide pen
+989,NONE,high,triamcinolone
+75,PAH,high,ambrisentan brand Letairis
+76,ACEI,high,ramipril
+286,MINOXIDIL,high,topical minoxidil 2%
+501,CCB_NON,high,diltiazem ER
+632,ARB,high,azilsartan medoxomil
+878,NONE,high,eculizumab
+846,NONE,high,ruxolitinib
+55,THIAZIDE,high,chlorothiazide brand Diuril
+517,BETA,high,bisoprolol brand Bicor
+643,CENTRAL,medium,guanfacine central alpha-2 agonist
+927,NONE,high,diclofenac topical
+877,NONE,high,benralizumab
+169,GLP1RA,high,dulaglutide
+783,NONE,high,remdesivir
+191,FIBRATE,high,fenofibrate
+761,NONE,high,omeprazole
+680,ASPIRIN,high,combination contains aspirin
+208,THIAZIDE|ARB,high,HCTZ plus losartan
+907,NONE,high,certolizumab
+903,NONE,high,peritoneal dialysis solution
+967,NONE,high,denosumab
+599,P2Y12,high,ticagrelor
+279,THIAZIDE|ARB,high,HCTZ plus irbesartan
+340,BETA,high,metoprolol
+800,NONE,high,imatinib
+358,CCB_DHP|STATIN,high,amlodipine plus atorvastatin
+78,ACEI,high,lisinopril
+223,DPP4I|METFORMIN,high,sitagliptin plus metformin
+607,ALPHA_BPH,high,tamsulosin
+79,STATIN,high,rosuvastatin
+451,ASPIRIN,high,aspirin Bayer
+934,NONE,high,topiramate
+823,NONE,high,sirolimus
+218,AA_III,high,dronedarone brand Multaq
+749,NONE,high,ado-trastuzumab emtansine
+576,DIGOXIN,high,digoxin brand Lanoxin
+841,NONE,high,aflibercept
+232,RANOLAZINE,high,ranolazine
+969,NONE,high,cisplatin
+578,LOOP,high,furosemide brand Lasix
+69,DPP4I,high,sitagliptin brand Januvia
+526,CCB_DHP,high,amlodipine brand Amlopres
+499,BETA,high,atenolol
+224,OMEGA3,high,omega-3 acid ethyl esters Lovaza
+845,NONE,high,adalimumab
+67,ASPIRIN,high,combination contains aspirin Percodan
+663,ARB,high,olmesartan brand Plaunac
+707,NONE,high,sofosbuvir
+810,NONE,high,hydroxyurea
+442,ACEI,high,lisinopril
+703,NONE,high,brivaracetam
+267,GLP1RA,high,liraglutide brand Victoza
+419,CCB_NON,high,verapamil
+151,ARB,high,irbesartan
+555,ARB|THIAZIDE,high,irbesartan plus HCTZ
+621,BETA,high,labetalol
+627,ACEI,high,ramipril brand Altace
+473,ASPIRIN,high,aspirin
+389,RANOLAZINE,high,ranolazine brand Ranexa
+219,MRA,high,eplerenone brand Inspra
+11,AA_III,high,amiodarone
+622,MINOXIDIL,high,topical minoxidil Rogaine foam
+690,AA_III,high,amiodarone
+128,PAH,high,treprostinil subcutaneous

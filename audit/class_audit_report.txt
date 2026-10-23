@@ -1,0 +1,502 @@
+====================================================================================================
+A. Per-class matched profile (sorted by report count)
+====================================================================================================
+
+[GLP1RA]  reports=424,094
+      85,032  MOUNJARO                                     | TIRZEPATIDE
+      72,465  TRULICITY                                    | DULAGLUTIDE
+      66,365  ZEPBOUND                                     | TIRZEPATIDE
+      50,567  OZEMPIC                                      | SEMAGLUTIDE
+      40,760  BYETTA                                       | 
+      20,061  WEGOVY                                       | SEMAGLUTIDE
+      13,760  VICTOZA                                      | LIRAGLUTIDE
+      12,731  BYDUREON                                     | EXENATIDE
+      11,868  BYDUREON BCISE                               | EXENATIDE
+      11,411  VICTOZA                                      | 
+       8,381  TANZEUM                                      | ALBIGLUTIDE
+       6,344  SAXENDA                                      | LIRAGLUTIDE
+
+[DOAC]  reports=344,481
+     109,583  ELIQUIS                                      | APIXABAN
+     100,851  XARELTO                                      | RIVAROXABAN
+      36,933  APIXABAN                                     | APIXABAN
+      31,087  PRADAXA                                      | DABIGATRAN ETEXILATE MESYLATE
+      27,504  PRADAXA                                      | 
+      11,280  XARELTO                                      | 
+      10,464  RIVAROXABAN                                  | RIVAROXABAN
+       2,468  PRAZAXA                                      | DABIGATRAN ETEXILATE MESYLATE
+       2,305  ELIQUIS                                      | 
+       1,997  EDOXABAN TOSYLATE                            | EDOXABAN TOSYLATE
+       1,205  LIXIANA                                      | EDOXABAN TOSYLATE
+       1,119  DABIGATRAN                                   | DABIGATRAN
+
+[PAH]  reports=340,683
+      45,075  AMBRISENTAN                                  | AMBRISENTAN
+      42,625  REMODULIN                                    | TREPROSTINIL
+      34,952  OPSUMIT                                      | MACITENTAN
+      27,682  LETAIRIS                                     | AMBRISENTAN
+      25,510  TYVASO                                       | TREPROSTINIL
+      17,386  TRACLEER                                     | 
+      15,999  ORENITRAM                                    | TREPROSTINIL
+      15,087  TYVASO DPI                                   | TREPROSTINIL
+      14,502  ADEMPAS                                      | RIOCIGUAT
+      13,030  VIAGRA                                       | SILDENAFIL CITRATE
+      10,690  UPTRAVI                                      | SELEXIPAG
+       9,371  TRACLEER                                     | BOSENTAN
+
+[PCSK9I]  reports=184,461
+     154,620  REPATHA                                      | EVOLOCUMAB
+      21,521  PRALUENT                                     | ALIROCUMAB
+       6,874  LEQVIO                                       | INCLISIRAN SODIUM
+         695  ALIROCUMAB                                   | ALIROCUMAB
+         623  EVOLOCUMAB                                   | EVOLOCUMAB
+         429  INCLISIRAN                                   | INCLISIRAN
+         354  ALIROCUMAB PREFILLED PEN                     | ALIROCUMAB
+         216  AMG 145                                      | EVOLOCUMAB
+          16  BLINDED ALIROCUMAB                           | ALIROCUMAB
+          11  SAR236553                                    | ALIROCUMAB
+           2  ALIROCUMAB (ALIROCUMAB 75MG/ML INJ, PEN, 1ML | ALIROCUMAB
+           1  ALIROCUMAB (ALIROCUMAB 150MG/ML INJ, PEN, 1M | ALIROCUMAB
+
+[STATIN]  reports=176,700
+      28,867  LIPITOR                                      | 
+      25,024  ATORVASTATIN                                 | ATORVASTATIN
+      24,359  CRESTOR                                      | 
+      17,411  LIPITOR                                      | ATORVASTATIN CALCIUM
+       7,893  SIMVASTATIN.                                 | SIMVASTATIN
+       7,404  SIMVASTATIN                                  | 
+       7,307  CRESTOR                                      | ROSUVASTATIN CALCIUM
+       6,808  ATORVASTATIN CALCIUM.                        | ATORVASTATIN CALCIUM
+       6,422  ROSUVASTATIN                                 | ROSUVASTATIN
+       5,902  ZOCOR                                        | 
+       3,067  ROSUVASTATIN.                                | ROSUVASTATIN
+       2,646  ATORVASTATIN CALCIUM                         | 
+
+[ARB]  reports=106,237
+       9,428  DIOVAN                                       | 
+       5,938  BENICAR                                      | OLMESARTAN MEDOXOMIL
+       5,271  VALSARTAN.                                   | VALSARTAN
+       4,419  DIOVAN                                       | VALSARTAN
+       3,982  LOSARTAN.                                    | LOSARTAN
+       3,789  DIOVAN HCT                                   | 
+       3,211  VALSARTAN                                    | VALSARTAN
+       2,839  MICARDIS                                     | 
+       2,825  LOSARTAN                                     | LOSARTAN
+       2,417  EXFORGE                                      | AMLODIPINE BESYLATE\VALSARTAN
+       2,300  IRBESARTAN.                                  | IRBESARTAN
+       2,261  ATACAND                                      | 
+
+[ARNI]  reports=106,206
+     100,335  ENTRESTO                                     | SACUBITRIL\VALSARTAN
+       2,964  SACUBITRIL\VALSARTAN                         | SACUBITRIL\VALSARTAN
+       2,191  VYMADA                                       | SACUBITRIL\VALSARTAN
+         397  UPERIO                                       | SACUBITRIL\VALSARTAN
+         163  SACUBITRIL,VALSARTAN                         | SACUBITRIL\VALSARTAN
+         152  LCZ696                                       | SACUBITRIL\VALSARTAN
+          63  SACUBITRIL/VALSARTAN                         | SACUBITRIL\VALSARTAN
+          44  VALSARTAN AND SACUBITRIL                     | SACUBITRIL\VALSARTAN
+          39  ONEPTUS                                      | SACUBITRIL\VALSARTAN
+          34  NEPARVIS                                     | SACUBITRIL\VALSARTAN
+           7  LCZ696A                                      | SACUBITRIL\VALSARTAN
+           7  SACUBITRIL AND VALSARTAN                     | SACUBITRIL\VALSARTAN
+
+[SGLT2I]  reports=103,528
+      31,224  JARDIANCE                                    | EMPAGLIFLOZIN
+      20,834  INVOKANA                                     | CANAGLIFLOZIN
+      16,254  DAPAGLIFLOZIN                                | DAPAGLIFLOZIN
+      15,129  FARXIGA                                      | DAPAGLIFLOZIN PROPANEDIOL
+       4,326  FORXIGA                                      | DAPAGLIFLOZIN
+       2,761  EMPAGLIFLOZIN                                | EMPAGLIFLOZIN
+       1,763  XIGDUO XR                                    | DAPAGLIFLOZIN PROPANEDIOL\METFORMI
+       1,426  SYNJARDY                                     | EMPAGLIFLOZIN\METFORMIN HYDROCHLOR
+       1,390  GLYXAMBI                                     | EMPAGLIFLOZIN\LINAGLIPTIN
+       1,281  CANAGLIFLOZIN                                | CANAGLIFLOZIN
+         882  DAPAGLIFLOZIN.                               | DAPAGLIFLOZIN
+         879  INVOKAMET                                    | CANAGLIFLOZIN\METFORMIN HYDROCHLOR
+
+[METFORMIN]  reports=91,762
+      38,415  METFORMIN                                    | METFORMIN HYDROCHLORIDE
+       8,584  METFORMIN HYDROCHLORIDE.                     | METFORMIN HYDROCHLORIDE
+       6,405  METFORMIN HCL                                | 
+       6,003  METFORMIN HYDROCHLORIDE                      | METFORMIN HYDROCHLORIDE
+       4,574  JANUMET                                      | METFORMIN HYDROCHLORIDE\SITAGLIPTI
+       2,609  GLUCOPHAGE                                   | 
+       1,910  METFORMIN                                    | 
+       1,763  XIGDUO XR                                    | DAPAGLIFLOZIN PROPANEDIOL\METFORMI
+       1,645  GLUCOPHAGE                                   | METFORMIN HYDROCHLORIDE
+       1,426  SYNJARDY                                     | EMPAGLIFLOZIN\METFORMIN HYDROCHLOR
+       1,380  METGLUCO                                     | METFORMIN HYDROCHLORIDE
+       1,297  METFORMIN HYDROCHLORIDE                      | 
+
+[BETA]  reports=82,569
+       6,940  BISOPROLOL                                   | BISOPROLOL
+       5,039  HEMANGEOL                                    | PROPRANOLOL HYDROCHLORIDE
+       4,167  METOPROLOL.                                  | METOPROLOL
+       4,013  METOPROLOL                                   | METOPROLOL
+       3,672  PROPRANOLOL                                  | PROPRANOLOL HYDROCHLORIDE
+       3,606  ATENOLOL.                                    | ATENOLOL
+       3,185  COREG                                        | 
+       3,125  METOPROLOL SUCCINATE.                        | METOPROLOL SUCCINATE
+       2,984  TOPROL-XL                                    | 
+       2,837  ATENOLOL                                     | 
+       2,450  METOPROLOL SUCCINATE                         | METOPROLOL SUCCINATE
+       2,323  CARVEDILOL.                                  | CARVEDILOL
+
+[P2Y12]  reports=70,190
+      16,487  CLOPIDOGREL                                  | CLOPIDOGREL BISULFATE
+      12,949  BRILINTA                                     | TICAGRELOR
+       9,439  PLAVIX                                       | 
+       8,308  PLAVIX                                       | CLOPIDOGREL BISULFATE
+       3,643  EFFIENT                                      | PRASUGREL HYDROCHLORIDE
+       2,620  TICAGRELOR                                   | TICAGRELOR
+       1,913  CLOPIDOGREL BISULFATE.                       | CLOPIDOGREL BISULFATE
+       1,795  CLOPIDOGREL BISULFATE                        | CLOPIDOGREL BISULFATE
+       1,739  BRILINTA                                     | 
+       1,709  EFFIENT                                      | 
+       1,700  BRILIQUE                                     | TICAGRELOR
+       1,357  CLOPIDOGREL                                  | 
+
+[CCB_DHP]  reports=68,661
+      27,040  AMLODIPINE                                   | AMLODIPINE BESYLATE
+       4,923  NORVASC                                      | 
+       4,465  AMLODIPINE BESILATE                          | AMLODIPINE BESYLATE
+       3,302  AMLODIPINE                                   | 
+       3,111  AMLODIPINE BESYLATE                          | AMLODIPINE BESYLATE
+       3,070  NORVASC                                      | AMLODIPINE BESYLATE
+       2,417  EXFORGE                                      | AMLODIPINE BESYLATE\VALSARTAN
+       1,862  EXFORGE HCT                                  | AMLODIPINE BESYLATE\HYDROCHLOROTHI
+       1,543  AMLODIPINE BESYLATE                          | 
+       1,458  AMLODIPINE BESYLATE.                         | AMLODIPINE BESYLATE
+       1,321  NIFEDIPINE.                                  | NIFEDIPINE
+       1,218  NIFEDIPINE                                   | 
+
+[ACEI]  reports=64,323
+       9,048  LISINOPRIL.                                  | LISINOPRIL
+       7,328  RAMIPRIL.                                    | RAMIPRIL
+       6,696  LISINOPRIL                                   | 
+       4,691  RAMIPRIL                                     | RAMIPRIL
+       4,587  LISINOPRIL                                   | LISINOPRIL
+       3,584  PRINIVIL                                     | LISINOPRIL
+       2,364  RAMIPRIL                                     | 
+       2,081  ALTACE                                       | 
+       2,012  ENALAPRIL                                    | ENALAPRIL
+       1,440  ENALAPRIL MALEATE                            | 
+         968  PRINIVIL                                     | 
+         690  LISINOPRIL AND HYDROCHLOROTHIAZIDE           | 
+
+[MINOXIDIL]  reports=62,725
+      17,742  MINOXIDIL                                    | MINOXIDIL
+      12,504  MENS ROGAINE EXTRA STRENGTH                  | MINOXIDIL
+      11,356  WOMENS ROGAINE UNSCENTED                     | MINOXIDIL
+       9,537  MINOXIDIL.                                   | MINOXIDIL
+       4,770  WOMENS ROGAINE                               | MINOXIDIL
+       2,942  ROGAINE                                      | MINOXIDIL
+       1,386  MENS ROGAINE                                 | MINOXIDIL
+         484  ROGAINE                                      | 
+         375  MINOXIDIL                                    | 
+         343  MENS ROGAINE EXTRA STRENGTH UNSCENTED        | MINOXIDIL
+         135  WOMENS ROGAINE EXTRA STRENGTH                | MINOXIDIL
+          91  MENS ROGAINE UNSCENTED FORMULA               | MINOXIDIL
+
+[ASPIRIN]  reports=59,894
+       7,974  PERCODAN                                     | ASPIRIN\OXYCODONE HYDROCHLORIDE
+       6,839  ACETYLSALICYLIC ACID({=100 MG)               | ASPIRIN
+       6,834  ASPIRIN                                      | 
+       4,136  EXCEDRIN MIGRAINE                            | ACETAMINOPHEN\ASPIRIN\CAFFEINE
+       3,514  EXCEDRIN                                     | ACETAMINOPHEN\ASPIRIN\CAFFEINE
+       3,361  ASPIRIN                                      | ASPIRIN
+       3,034  BAYER LOW DOSE                               | ASPIRIN
+       2,802  ACETYLSALICYLIC ACID                         | ASPIRIN
+       2,748  ASPIRIN.                                     | ASPIRIN
+       2,225  EXCEDRIN EXTRA STRENGTH                      | ACETAMINOPHEN\ASPIRIN\CAFFEINE
+       1,797  ASPIRIN (CARDIO)                             | ASPIRIN
+       1,635  ACETYLSALICYLIC ACID (} 100 MG)              | ASPIRIN
+
+[DPP4I]  reports=51,900
+      12,802  JANUVIA                                      | 
+      12,542  JANUVIA                                      | SITAGLIPTIN PHOSPHATE
+       4,574  JANUMET                                      | METFORMIN HYDROCHLORIDE\SITAGLIPTI
+       2,802  TRADJENTA                                    | LINAGLIPTIN
+       1,613  ONGLYZA                                      | 
+       1,390  GLYXAMBI                                     | EMPAGLIFLOZIN\LINAGLIPTIN
+       1,355  LINAGLIPTIN                                  | LINAGLIPTIN
+       1,339  ONGLYZA                                      | SAXAGLIPTIN HYDROCHLORIDE
+       1,280  TRADJENTA                                    | 
+       1,148  JANUMET XR                                   | METFORMIN HYDROCHLORIDE\SITAGLIPTI
+         862  GALVUS MET                                   | METFORMIN HYDROCHLORIDE\VILDAGLIPT
+         800  TRAJENTA                                     | LINAGLIPTIN
+
+[VKA]  reports=43,112
+       9,329  WARFARIN                                     | WARFARIN
+       8,705  COUMADIN                                     | 
+       6,399  COUMADIN                                     | WARFARIN SODIUM
+       6,179  WARFARIN SODIUM                              | 
+       5,973  WARFARIN SODIUM.                             | WARFARIN SODIUM
+       1,836  WARFARIN                                     | 
+       1,492  COUMADINE                                    | WARFARIN SODIUM
+         698  WARFARIN SODIUM                              | WARFARIN SODIUM
+         317  COUMADIN TABS 5 MG                           | 
+         203  JANTOVEN                                     | WARFARIN SODIUM
+         157  WARFARIN (WARFARIN NA (EXELAN) 5MG TAB)      | WARFARIN SODIUM
+         139  WARFARIN SODIUM TABLETS USP 5MG              | WARFARIN SODIUM
+
+[AA_III]  reports=36,431
+       7,980  AMIODARONE                                   | AMIODARONE
+       2,953  TIKOSYN                                      | DOFETILIDE
+       2,850  MULTAQ                                       | 
+       2,510  TIKOSYN                                      | 
+       2,224  MULTAQ                                       | DRONEDARONE
+       2,192  AMIODARONE HCL                               | 
+       1,945  CORDARONE                                    | 
+       1,932  AMIODARONE HCL                               | AMIODARONE HYDROCHLORIDE
+       1,487  AMIODARONE HYDROCHLORIDE                     | AMIODARONE HYDROCHLORIDE
+       1,274  AMIODARONE HYDROCHLORIDE.                    | AMIODARONE HYDROCHLORIDE
+       1,267  CORDARONE                                    | AMIODARONE HYDROCHLORIDE
+         892  DOFETILIDE.                                  | DOFETILIDE
+
+[THIAZIDE]  reports=33,358
+       3,259  HYDROCHLOROTHIAZIDE.                         | HYDROCHLOROTHIAZIDE
+       1,944  BENICAR HCT                                  | HYDROCHLOROTHIAZIDE\OLMESARTAN MED
+       1,862  EXFORGE HCT                                  | AMLODIPINE BESYLATE\HYDROCHLOROTHI
+       1,808  HYDROCHLOROTHIAZIDE                          | HYDROCHLOROTHIAZIDE
+       1,379  HYDROCHLOROTHIAZIDE                          | 
+         967  HYDROCHLOROTHIAZIDE\VALSARTAN                | HYDROCHLOROTHIAZIDE\VALSARTAN
+         946  INDAPAMIDE.                                  | INDAPAMIDE
+         883  DIOVAN HCT                                   | HYDROCHLOROTHIAZIDE\VALSARTAN
+         776  CO-DIOVAN                                    | HYDROCHLOROTHIAZIDE\VALSARTAN
+         690  LISINOPRIL AND HYDROCHLOROTHIAZIDE           | 
+         682  EDARBYCLOR                                   | AZILSARTAN KAMEDOXOMIL\CHLORTHALID
+         504  VALSARTAN AND HYDROCHLOROTHIAZIDE            | HYDROCHLOROTHIAZIDE\VALSARTAN
+
+[LOOP]  reports=27,147
+       9,257  FUROSEMIDE.                                  | FUROSEMIDE
+       6,413  FUROSEMIDE                                   | FUROSEMIDE
+       2,575  LASIX                                        | FUROSEMIDE
+       2,076  FUROSEMIDE                                   | 
+       1,437  LASIX                                        | 
+         627  TORSEMIDE                                    | TORSEMIDE
+         523  TORASEMIDE                                   | TORSEMIDE
+         301  TORSEMIDE                                    | 
+         268  FUROSCIX                                     | FUROSEMIDE
+         227  BUMETANIDE.                                  | BUMETANIDE
+         208  FUROSEMIDE (MANUFACTURER UNKNOWN)            | FUROSEMIDE
+         204  LASILIX                                      | FUROSEMIDE
+
+[ALPHA]  reports=25,682
+       3,886  TAMSULOSIN                                   | TAMSULOSIN
+       3,640  FLOMAX                                       | 
+       1,523  TAMSULOSIN HYDROCHLORIDE                     | TAMSULOSIN HYDROCHLORIDE
+       1,480  FLOMAX                                       | TAMSULOSIN HYDROCHLORIDE
+       1,211  DOXAZOSIN                                    | DOXAZOSIN MESYLATE
+         735  TAMSULOSIN HYDROCHLORIDE.                    | TAMSULOSIN HYDROCHLORIDE
+         712  UROXATRAL                                    | 
+         662  TAMSULOSIN HCL                               | 
+         579  HARNAL                                       | TAMSULOSIN HYDROCHLORIDE
+         555  ALFUZOSIN                                    | ALFUZOSIN
+         514  DOXAZOSIN                                    | DOXAZOSIN\DOXAZOSIN MESYLATE
+         510  CARDURA                                      | 
+
+[EZETIMIBE]  reports=17,426
+       5,613  ZETIA                                        | 
+       4,953  EZETIMIBE                                    | EZETIMIBE
+       1,688  ZETIA                                        | EZETIMIBE
+       1,251  EZETIMIBE.                                   | EZETIMIBE
+         586  BEMPEDOIC ACID\EZETIMIBE                     | BEMPEDOIC ACID\EZETIMIBE
+         486  VYTORIN                                      | EZETIMIBE\SIMVASTATIN
+         470  NEXLIZET                                     | BEMPEDOIC ACID\EZETIMIBE
+         448  EZETROL                                      | EZETIMIBE
+         324  LIPTRUZET                                    | ATORVASTATIN CALCIUM\EZETIMIBE
+         221  INEGY                                        | EZETIMIBE\SIMVASTATIN
+         123  EZETIMIBE                                    | 
+         120  EZETIMIBE\SIMVASTATIN                        | EZETIMIBE\SIMVASTATIN
+
+[CCB_NON]  reports=17,106
+       2,048  VERAPAMIL                                    | VERAPAMIL HYDROCHLORIDE
+       1,678  DILTIAZEM                                    | DILTIAZEM
+       1,305  DILTIAZEM HYDROCHLORIDE                      | DILTIAZEM HYDROCHLORIDE
+       1,226  DILTIAZEM.                                   | DILTIAZEM
+       1,050  DILTIAZEM                                    | 
+         962  VERAPAMIL HCL                                | VERAPAMIL HYDROCHLORIDE
+         906  VERAPAMIL                                    | 
+         665  VERAPAMIL HCL                                | 
+         562  DILTIAZEM HCL                                | DILTIAZEM HYDROCHLORIDE
+         520  DILTIAZEM HYDROCHLORIDE                      | 
+         501  DILTIAZEM HCL                                | 
+         494  DILTIAZEM HYDROCHLORIDE.                     | DILTIAZEM HYDROCHLORIDE
+
+[MRA]  reports=14,056
+       2,885  SPIRONOLACTONE                               | SPIRONOLACTONE
+       2,639  SPIRONOLACTONE.                              | SPIRONOLACTONE
+       2,030  KERENDIA                                     | FINERENONE
+       1,319  ALDACTONE                                    | 
+       1,235  ALDACTONE                                    | SPIRONOLACTONE
+         836  SPIRONOLACTONE                               | 
+         519  EPLERENONE                                   | EPLERENONE
+         478  EPLERENONE.                                  | EPLERENONE
+         379  FINERENONE                                   | FINERENONE
+         331  INSPRA                                       | EPLERENONE
+         315  INSPRA                                       | 
+         186  EPLERENONE                                   | 
+
+[CENTRAL]  reports=12,353
+       1,649  CLONIDINE.                                   | CLONIDINE
+       1,471  INTUNIV                                      | GUANFACINE HYDROCHLORIDE
+       1,259  CLONIDINE                                    | CLONIDINE
+       1,116  CLONIDINE                                    | 
+         854  CATAPRES-TTS-1                               | 
+         767  CLONIDINE TRANSDERMAL SYSTEM                 | CLONIDINE
+         507  CATAPRES                                     | CLONIDINE HYDROCHLORIDE
+         433  GUANFACINE                                   | GUANFACINE
+         364  CLONIDINE HYDROCHLORIDE                      | CLONIDINE HYDROCHLORIDE
+         337  CATAPRES                                     | 
+         276  CLONIDINE HCL                                | 
+         247  GUANFACINE.                                  | GUANFACINE
+
+[RANOLAZINE]  reports=10,100
+       3,377  RANOLAZINE                                   | RANOLAZINE
+       3,144  RANOLAZINE.                                  | RANOLAZINE
+       2,059  RANEXA                                       | RANOLAZINE
+       1,075  RANEXA                                       | 
+         342  RANOLAZINE                                   | 
+          15  RANOLAZINE HYDROCHLORIDE                     | RANOLAZINE HYDROCHLORIDE
+          11  RANOLAZINE (ANDA 210054)                     | RANOLAZINE
+          10  RANOLAZINE EXTENDED RELEASE TABLET 500 MG    | RANOLAZINE
+           6  RANOLAZINE 500MG                             | RANOLAZINE
+           5  RANOLAZINE EXTENDED-RELEASE TABLETS          | RANOLAZINE
+           5  RANOLAZINE EXTENDED?RELEASE TABLETS, 500 MG  | RANOLAZINE
+           4  RANOLAZINE ER                                | RANOLAZINE
+
+[DIGOXIN]  reports=9,845
+       6,665  DIGOXIN                                      | 
+       1,512  DIGOXIN.                                     | DIGOXIN
+         710  DIGOXIN                                      | DIGOXIN
+         476  LANOXIN                                      | 
+         140  DIGIFAB                                      | OVINE DIGOXIN IMMUNE FAB
+         131  LANOXIN                                      | DIGOXIN
+          15  DIGOXIN (DIGOXIN) UNKNOWN                    | DIGOXIN
+          15  DIGOXIN SANDOZ                               | DIGOXIN
+           9  DIGITEK                                      | DIGOXIN
+           9  DIGOXIN (DIGOXIN)                            | DIGOXIN
+           9  DIGOXIN TAB                                  | 
+           6  DIGOXIN (DIGOXIN)                            | 
+
+[VASODIL]  reports=9,341
+       1,820  HYDRALAZINE                                  | HYDRALAZINE HYDROCHLORIDE
+         952  NITROGLYCERIN.                               | NITROGLYCERIN
+         822  NITROGLYCERIN                                | NITROGLYCERIN
+         597  HYDRALAZINE HYDROCHLORIDE                    | HYDRALAZINE HYDROCHLORIDE
+         554  ISOSORBIDE MONONITRATE                       | 
+         494  HYDRALAZINE HCL                              | HYDRALAZINE HYDROCHLORIDE
+         459  HYDRALAZINE HYDROCHLORIDE.                   | HYDRALAZINE HYDROCHLORIDE
+         370  NITROGLYCERIN                                | 
+         270  NITROSTAT                                    | NITROGLYCERIN
+         196  ISOSORBIDE MONONITRATE                       | ISOSORBIDE MONONITRATE
+         186  HYDRALAZINE HCL                              | 
+         181  ISOSORBIDE MONONITRATE.                      | ISOSORBIDE MONONITRATE
+
+[OMEGA3]  reports=9,215
+       3,782  VASCEPA                                      | ICOSAPENT ETHYL
+       2,395  LOVAZA                                       | 
+         826  OMEGA-3-ACID ETHYL ESTERS.                   | OMEGA-3-ACID ETHYL ESTERS
+         668  LOVAZA                                       | OMEGA-3-ACID ETHYL ESTERS
+         302  VAYARIN (NON-SPECIFIC)                       | DOCONEXENT\ICOSAPENT\PHOSPHATIDYL 
+         268  VASCEPA                                      | ETHYL ICOSAPENTATE
+         196  ICOSAPENT ETHYL                              | ICOSAPENT ETHYL
+         112  EPANOVA                                      | OMEGA-3-CARBOXYLIC ACIDS
+          97  OMEGA-3-ACID ETHYL ESTERS                    | OMEGA-3-ACID ETHYL ESTERS
+          68  VAYACOG (NON-SPECIFIC)                       | DOCONEXENT\ICOSAPENT\PHOSPHATIDYL 
+          63  OMEGA-3-ACID ETHYL ESTERS CAPSULE            | OMEGA-3-ACID ETHYL ESTERS
+          55  OMEGA 3 ACID ETHYL ESTERS                    | OMEGA-3-ACID ETHYL ESTERS
+
+[FIBRATE]  reports=8,644
+       1,804  TRILIPIX                                     | 
+       1,746  TRICOR                                       | 
+       1,171  FENOFIBRATE                                  | FENOFIBRATE
+         942  FENOFIBRATE.                                 | FENOFIBRATE
+         921  FENOFIBRATE                                  | 
+         367  GEMFIBROZIL                                  | 
+         278  LOPID                                        | 
+         247  GEMFIBROZIL.                                 | GEMFIBROZIL
+         175  TRICOR                                       | FENOFIBRATE
+         163  LIPANTHYL                                    | FENOFIBRATE
+         135  LIPIDIL                                      | FENOFIBRATE
+         135  LOPID                                        | GEMFIBROZIL
+
+[GPIIBIIIA]  reports=5,038
+       1,918  AGGRASTAT                                    | TIROFIBAN HYDROCHLORIDE
+         903  REOPRO                                       | 
+         751  INTEGRILIN                                   | 
+         368  AGGRASTAT                                    | 
+         208  INTEGRILIN                                   | EPTIFIBATIDE
+         170  ABCIXIMAB                                    | 
+          99  REOPRO                                       | ABCIXIMAB
+          83  EPTIFIBATIDE                                 | 
+          79  ABCIXIMAB                                    | ABCIXIMAB
+          78  EPTIFIBATIDE.                                | EPTIFIBATIDE
+          36  TIROFIBAN                                    | TIROFIBAN
+          33  EPTIFIBATIDE                                 | EPTIFIBATIDE
+
+[AA_IC]  reports=4,752
+       1,359  FLECAINIDE                                   | FLECAINIDE
+         340  FLECAINIDE ACETATE                           | 
+         334  PROPAFENONE HCL                              | 
+         264  FLECAINIDE ACETATE                           | FLECAINIDE ACETATE
+         254  RYTHMOL                                      | 
+         251  PROPAFENONE.                                 | PROPAFENONE
+         214  FLECAINIDE ACETATE.                          | FLECAINIDE ACETATE
+         211  RYTHMOL SR                                   | 
+         174  PROPAFENONE                                  | PROPAFENONE
+         131  RYTHMOL SR                                   | PROPAFENONE HYDROCHLORIDE
+         112  PROPAFENONE HYDROCHLORIDE                    | 
+         111  RYTHMOL                                      | PROPAFENONE HYDROCHLORIDE
+
+[IVABRADINE]  reports=3,122
+       1,800  CORLANOR                                     | IVABRADINE HYDROCHLORIDE
+         697  IVABRADINE                                   | IVABRADINE
+         284  PROCORALAN                                   | IVABRADINE
+         191  IVABRADINE HYDROCHLORIDE                     | IVABRADINE HYDROCHLORIDE
+          81  CORALAN                                      | IVABRADINE HYDROCHLORIDE
+          46  CORLENTOR                                    | IVABRADINE HYDROCHLORIDE
+          12  LANCORA                                      | IVABRADINE
+           7  CORAXAN (IVABRADINE HYDROCHLORIDE)           | IVABRADINE HYDROCHLORIDE
+           3  CORAXAN                                      | IVABRADINE HYDROCHLORIDE
+           1  BLINDED IVABRADINE                           | IVABRADINE
+           1  BREDIWAL                                     | IVABRADINE HYDROCHLORIDE
+           1  IVABRADINE AMGEN                             | IVABRADINE
+
+[BEMPEDOIC]  reports=2,517
+         741  BEMPEDOIC ACID                               | BEMPEDOIC ACID
+         676  NEXLETOL                                     | BEMPEDOIC ACID
+         586  BEMPEDOIC ACID\EZETIMIBE                     | BEMPEDOIC ACID\EZETIMIBE
+         470  NEXLIZET                                     | BEMPEDOIC ACID\EZETIMIBE
+          23  NILEMDO                                      | BEMPEDOIC ACID
+          14  BEMPEDOIC ACID.                              | BEMPEDOIC ACID
+          14  NUSTENDI                                     | BEMPEDOIC ACID\EZETIMIBE
+           8  BEMPEDOIC ACID / EZETIMIBE                   | BEMPEDOIC ACID\EZETIMIBE
+
+[CILOSTAZOL]  reports=2,184
+         910  PLETAL                                       | 
+         483  CILOSTAZOL                                   | 
+         330  CILOSTAZOL.                                  | CILOSTAZOL
+          85  PLETAAL OD TABLETS 50MG                      | CILOSTAZOL
+          76  PLETAAL                                      | CILOSTAZOL
+          68  CILOSTAZOL                                   | CILOSTAZOL
+          66  PLETAL                                       | CILOSTAZOL
+          31  OPC-14597                                    | CILOSTAZOL
+          29  PLETAAL OD TABLETS 100MG                     | CILOSTAZOL
+          15  PLETAAL TABLETS 50MG                         | CILOSTAZOL
+          13  BLINDED OPC-14597                            | CILOSTAZOL
+          12  OPC-13013 (CILOSTAZOL) TABLET                | 
+
+[VERICIGUAT]  reports=983
+         729  VERQUVO                                      | VERICIGUAT
+         193  VERICIGUAT HYDROCHLORIDE                     | VERICIGUAT HYDROCHLORIDE
+          63  VERICIGUAT                                   | VERICIGUAT
+
+====================================================================================================
+B. Suspected misses: high-frequency unclassified drug names loosely containing class keywords
+====================================================================================================
+
+[AA_III]  suspected missed cases total=46 (top 12 high-frequency combinations below)
+          26  NEXTERONE_AMIODARONE, HYDROCHLORIDE 1.80 |                                <- AMIODARONE
+          20  NEXTERONE_AMIODARONE, HYDROCHLORIDE 1.50 |                                <- AMIODARONE

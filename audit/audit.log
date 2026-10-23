@@ -1,0 +1,10 @@
+written: src/class_audit_report.txt
+written: src/class_audit_topnames.csv
+classes audited: 36 ; classes with suspected omissions: 1
+[2026-10-16T20:12:10] LLM_LABELS_LOCKED file=audit_llm_labels.csv rows=1000 sha256=68855bcf67f2ede079c433cfe2183f25f8a6b720933d58d960752a28e1426958 note=1,000 blind labels frozen before opening sealed key
+[2026-10-16T20:13:21] SEALED_KEY_OPENED file=audit_sample_1000_KEY.csv sha256=edb1ecd394e9b1f45d5ba8f09db80045466f76635fe4da3870fbd3e559d0df0e disagreements=14 concordant_sampled=197 package_rows=211
+[2026-10-16T23:00:24] RATERS_MERGED rater1=hhz rater2=CSQ pairs=211 agree=211 to_arbitration=0 file=audit_arbitration_list.csv
+[2026-10-16T23:08:30] GOLD_STANDARD_LOCKED pairs=211 unresolvable=0 dict_acc=0.9573 llm_acc=0.9763 mcnemar_p=0.4240 kappa_macro=0.9914 c_layer_missed_est=19387 file=audit_gold_standard.csv
+[2026-10-17T00:50:35] RATER_FILES_SUPERSEDED old=rater1/2_filled(22:58 version) new=audit_adjudication_raterhhz.csv+audit_adjudication_raterCSQ.csv reason=authors confirmed the new files as the correct version;pair 492 changed substantively between versions (number of combination components);all other differences were class-order notation
+[2026-10-17T00:53:37] GOLD_STANDARD_LOCKED_v2 pairs=211 agreed=210 pending=1 pending_ids=492 unresolvable=0 dict_acc=0.9571 llm_acc=0.9810 mcnemar_p=0.2668 kappa_macro=0.9914 c_layer_missed_est=19387 file=audit_gold_standard.csv
+[2026-10-17T23:34:49] GOLD_STANDARD_LOCKED_v3 pairs=211 arbitrated=1 pending=0 pending_ids=none unresolvable=0 dict_acc=0.9526 llm_acc=0.9810 mcnemar_p=0.1796 kappa_macro=0.9914 c_layer_missed_est=19387 file=audit_gold_standard.csv

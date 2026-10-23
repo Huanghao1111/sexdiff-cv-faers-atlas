@@ -1,0 +1,21 @@
+class,pt,direction,adj_ratio,adj_ci,adj_p,physician_layer,label_status,verdict,mechanism_evidence
+SGLT2I,GENITAL INFECTION FUNGAL,F,9.73,4.03-23.49,4.1e-07,n/a,"HIT (label sex-stratified: F 10.6-11.6% vs M 3.8-4.2%, INVOKANA PI)",known/labeled,glucosuria-driven genital mycotic infection; female anatomy
+STATIN,GYNAECOMASTIA,F,7.48,3.00-18.65,1.6e-05,n/a,n/a,ARTIFACT-EXCLUDED,sex-locked PT: a_f=15 vs a_m=257; comparator baseline male-locked -> spurious ratio
+CCB_DHP,ACUTE PULMONARY OEDEMA,F,5.52,3.37-9.03,1.1e-11,4.81 (2.04-11.31) p=0.0004,PARTIAL (amlodipine label sex-stratified oedema F 14.6% vs M 5.6%; pulmonary form unlabeled),novel severe-form extension,precapillary vasodilation; female-predominant fluid-shift AEs; physician-layer robust
+GLP1RA,BREAST PAIN,F,5.07,2.20-11.71,1.4e-04,n/a,MISS,novel,female breast tissue; trivially anatomical; no label mention
+ALPHA_HTN,URINARY INCONTINENCE,F,4.53,2.87-7.15,9.7e-11,n/a,PARTIAL (UI in EU SmPC; US label no sex statement),"novel, mechanism-backed",alpha-1 blockade of bladder neck/urethral sphincter; women lack prostatic resistance; doxazosin-driven (49% share)
+LOOP,TORSADE DE POINTES,F,4.32,2.75-6.78,2.2e-10,3.26 (1.63-6.52) p=0.0008,MISS (no sex statement in diuretic labels),"novel, mechanism-backed",female sex = established TdP risk factor (2-3x); hypokalemia/hypomagnesemia; physician-layer robust
+PAH,CATHETER SITE DISCHARGE,F,4.17,1.66-10.46,2.4e-03,n/a,n/a,ARTIFACT-EXCLUDED,disease demographics (PAH population 73.6% female) + VELETRI single-source enrichment 16.1 + device-related PT
+GLP1RA,HYPERTHYROIDISM,F,3.73,2.51-5.54,6.5e-11,2.86 (1.52-5.37) p=0.001,MISS (only MTC boxed warning; no thyroid dysfunction),"novel, mechanism unclear",physician-layer robust; possible thyroid-monitoring/notoriety bias; report with caution
+RENIN_INH,ANGIOEDEMA,F,3.33,2.37-4.67,4.2e-12,2.10 (1.42-3.12) p=0.0002,PARTIAL (angioedema labeled 5.3; no sex statement),novel sex differential on labeled event,"caveat: TEKTURNA stream 64.8% F vs class 53.9% (11pp skew, below flag threshold)"
+SGLT2I,ANGIOEDEMA,F,3.26,2.41-4.42,2.0e-14,1.76 (1.17-2.66) p=0.007,PARTIAL (hypersensitivity/angioedema in PI; no sex statement),novel sex differential on labeled event,no product-stream skew; physician-layer robust
+VASODIL,ORTHOSTATIC HYPOTENSION,F,3.23,2.10-4.95,8.8e-08,n/a,MISS (no sex statement),"novel, physiology-backed",women lower orthostatic tolerance (cardiac filling/Starling); nitroglycerin tilt-test female predominance
+BETA,RESPIRATORY DEPRESSION,F,3.16,2.06-4.85,1.5e-07,1.03 (0.33-3.23) p=0.95,n/a,REJECTED,consumer-report driven; physician layer null
+AA_III,THYROTOXIC CRISIS,M,0.12,0.07-0.22,4.8e-13,0.10 (0.04-0.27) p=2e-06,PARTIAL (thyroid tox labeled; no sex statement),validated known direction,AIT male predominance ~3:1; TxC series all-male; vs AIH female 1.5:1 mirror
+MRA,BREAST PAIN,M,0.13,0.09-0.21,2.8e-18,n/a,HIT (ALDACTONE 5.4 gynecomastia; 9% males RALES; breast/nipple pain listed),known/labeled,anti-androgenic: androgen-receptor blockade + aromatization; mirror of GLP1RA female breast pain
+SGLT2I,CELLULITIS,M,0.39,0.34-0.45,6.1e-41,0.49 (0.33-0.74) p=0.0004,PARTIAL (Fournier gangrene class warning; male-predominant epi 1.6/100k males; FAERS FG 64% male),"novel at PT granularity, label-adjacent",perineal/genital infection spectrum male anatomy; INVOKANA share 75.8% but no sex stream skew
+DIGOXIN,PRODUCTIVE COUGH,M,0.39,0.26-0.59,8.3e-06,n/a,n/a,REJECTED,no plausible mechanism; small counts
+LOOP,POLYURIA,M,0.39,0.27-0.58,2.5e-06,0.99 (0.44-2.22) p=0.97,n/a,REJECTED,physician layer null -> reporting artifact
+OMEGA3,CHEST PAIN,M,0.41,0.28-0.62,1.9e-05,0.62 (0.32-1.20) p=0.16,n/a,ARTIFACT-EXCLUDED,prescribing demographics: product stream 30.3% F vs class 45.5% (male-skewed Rx population)
+THIAZIDE,HYPOPHAGIA,M,0.44,0.30-0.65,3.7e-05,1.01 (0.37-2.74) p=0.99,n/a,REJECTED,physician layer null
+DPP4I,INTESTINAL OBSTRUCTION,M,0.44,0.30-0.66,5.6e-05,0.25 (0.12-0.49) p=6e-05,MISS,novel male signal,physician-layer robust; mechanism unclear; honest hypothesis-generating entry

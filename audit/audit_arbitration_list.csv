@@ -1,0 +1,2 @@
+﻿sample_id,stratum,drugname_u,prod_ai_u,dict_classes,llm_classes,rater1_class,rater1_note,rater2_class,rater2_note,arbitration,gold_class
+492,A,EXFORGE D,,ARB|CCB_DHP,ARB|CCB_DHP|THIAZIDE,ARB|CCB_DHP|THIAZIDE,amlodipine+valsartan+HCTZ,ARB|CCB_DHP,composition of 'D' uncertain,"Third-party arbitration: Novartis Argentina label states Exforge D = amlodipine/valsartan/hydrochlorothiazide; triple accepted",ARB|CCB_DHP|THIAZIDE
