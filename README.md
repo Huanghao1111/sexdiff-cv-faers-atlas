@@ -2,7 +2,7 @@
 
 Analysis code, frozen classification rules, and the complete dictionary-audit package for an active-comparator disproportionality atlas of sex-differential harm across 36 cardiovascular drug classes, built from 90 quarterly FAERS releases (2004Q1–2026Q2; 2,190,818 sex-known cardiovascular primary-suspect reports).
 
-This repository accompanies the manuscript under submission to *European Heart Journal – Cardiovascular Pharmacotherapy*. It contains the analysis code, the frozen classification rules, the complete dictionary-audit package, and the machine-readable result files reported in the manuscript (`data/`). Every reported result can additionally be regenerated from the publicly available FAERS quarterly data files with the code and frozen rule sets in this repository.
+This repository accompanies the manuscript under submission to *European Journal of Pharmacology*. It contains the analysis code, the frozen classification rules, the complete dictionary-audit package, and the machine-readable result files reported in the manuscript (`data/`). Every reported result can additionally be regenerated from the publicly available FAERS quarterly data files with the code and frozen rule sets in this repository.
 
 ## Repository layout
 
